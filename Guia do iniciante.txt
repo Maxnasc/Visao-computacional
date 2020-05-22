@@ -8,5 +8,7 @@ ser muito dificil encontrar material de apoio ou tutoriais de como baixar e inst
 necessária para programar, por isso vou deixar um link de um curso gratuito no Youtube que explica 
 muito bem como baixar, instalar e utilizar o Visual Studio e  o opencv.
 
+link: https://www.youtube.com/watch?v=l_4fNNyk1aw&list=PLAp0ZhYvW6XbEveYeefGSuLhaPlFML9gP&index=1
+
 Espero que ajude quem precisar.
 Até!!! :D
