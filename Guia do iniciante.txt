@@ -1,0 +1,12 @@
+**Como usar opencv**
+
+Para conseguir programar em c++ é necessário possuir uma IDE com o opencv instalado e configurado.
+No meu caso, eu utilizo como IDE o Visual Studio 2019 e a versão do opencv que eu uso é a 3.4.9.
+
+Pra quem está começando na visão computacional ou mesmo está querendo aprender sobre o assunto pode 
+ser muito dificil encontrar material de apoio ou tutoriais de como baixar e instalar as ferramentas 
+necessária para programar, por isso vou deixar um link de um curso gratuito no Youtube que explica 
+muito bem como baixar, instalar e utilizar o Visual Studio e  o opencv.
+
+Espero que ajude quem precisar.
+Até!!! :D
